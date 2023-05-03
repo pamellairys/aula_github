@@ -1,0 +1,32 @@
+ body {
+    font-family: helvetica;
+ }
+
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+nav{
+    display: flex;
+    gap: 32px;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 4px black;
+    font-weight:  bold;
+    color: black;
+    transition: 2s;
+}
+a:hover{
+    background-color: blue;
+    
+}
