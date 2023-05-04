@@ -1,0 +1,14 @@
+body{
+    background-image: url(https://vetplus.vet.br/wp-content/uploads/2019/12/ok%C2%B4p%C2%B4l%C2%B4plp.png);
+    background-repeat: repeat;
+    background-size: cover;
+}
+h2{
+    color: rgb(182, 49, 49);
+}
+img{
+    border-radius: 100px;
+}
+#pamella{
+    text-align: center;
+}
