@@ -1,0 +1,34 @@
+body{
+font-family:Helvetica;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+nav{
+    display: flex;
+    gap: 32px;
+    align-items: center;
+}
+li{
+    list-style: none;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    text-decoration: none;
+    padding: 15px;
+    border-radius: 5px ;
+    font-weight: bold;
+    color: blue;
+    transition: 2s;
+    align-items: center;
+}
+a:hover {
+    background-color: blue;
+}
+.entrar{
+    border: 1px solid black;
+    border-radius: 15px 15px;
+}
